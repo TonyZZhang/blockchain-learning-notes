@@ -12,5 +12,6 @@ reference:
 
 4.[win7下以太坊基于truffle+ganache开发环境搭建以及智能合约的部署调用 - shall1995 - 博客园 (cnblogs.com)](https://www.cnblogs.com/shall1995/p/11619732.html)
 
-
 5.https://cryptozombies.io/
+
+6.[这30个以太坊开发示例，让你成为80万都挖不走的区块链人才！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/47771150)
