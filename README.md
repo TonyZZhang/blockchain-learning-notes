@@ -1,7 +1,5 @@
 # blockchain-learning-notes
 
-`truffle `
-
 reference:
 
 1.[安装 Truffle | Truffle 中文文档 - DApp 开发框架 | 深入浅出区块链 (learnblockchain.cn)](https://learnblockchain.cn/docs/truffle/getting-started/installation.html#)
